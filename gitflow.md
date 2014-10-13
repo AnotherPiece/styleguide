@@ -28,7 +28,7 @@ Git是什么？简单点说就是版本管理的工具，类似于SVN, CVS，但
 
 
 ### Git flow(简单点理解就是对git branch使用的一些约定):
-![Git flow 流程图](http://nvie.com/img/2009/12/Screen-shot-2009-12-24-at-11.32.03.png)
+![Git flow 流程图](http://jeffkreeftmeijer.com/images/gitflow.gif)
 
 ##### Git flow 基本命令
 ### Initialization
