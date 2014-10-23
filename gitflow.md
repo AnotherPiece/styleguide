@@ -101,6 +101,7 @@ hotfix 分支是如果线上正在系统发现bug，临时开的一个分支，�
 http://nvie.com/posts/a-successful-git-branching-model/
 http://ihower.tw/blog/archives/5140
 https://github.com/nvie/gitflow
+http://danielkummer.github.io/git-flow-cheatsheet/index.html
 
 
 ##### 跟git类似但是更加轻量级的SCM:
